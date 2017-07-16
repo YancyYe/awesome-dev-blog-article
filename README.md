@@ -51,9 +51,9 @@
 ### github 项目推荐
 | 项目  | 演示图    |  
 | ------------- |:-------------:| 
-|  [SimpleCropView 截图](https://github.com/IsseiAoki/SimpleCropView)      | ![](https://raw.github.com/wiki/IsseiAoki/SimpleCropView/images/gif/demo_basic_usage.gif) | 
-|  [ObservableScrollView 滑动控件](https://github.com/ksoichiro/Android-ObservableScrollView)      | ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif) | 
-|  [DWCorePhoto 大图浏览](https://github.com/DavidWangTM/DWCorePhoto_Android)      | ![](https://raw.githubusercontent.com/DavidWangTM/DWCorePhoto_Android/master/ListShow.gif) | 
+|  [SimpleCropView 截图](https://github.com/IsseiAoki/SimpleCropView)      | ![](https://raw.github.com/wiki/IsseiAoki/SimpleCropView/images/gif/demo_basic_usage.gif =200x200) | 
+|  [ObservableScrollView 滑动控件](https://github.com/ksoichiro/Android-ObservableScrollView)      | ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif =200x200) | 
+|  [DWCorePhoto 大图浏览](https://github.com/DavidWangTM/DWCorePhoto_Android)      | ![](https://raw.githubusercontent.com/DavidWangTM/DWCorePhoto_Android/master/ListShow.gif =200x200) | 
 
 * [朋友圈图片列表放大浏览](https://github.com/DavidWangTM/DWCorePhoto_Android)
 * [tab滑动标签](https://github.com/ksoichiro/Android-ObservableScrollView)
